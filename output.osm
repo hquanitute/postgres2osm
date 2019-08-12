@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<osm version="0.6" generator="pgsql2osm">
+ <bounds minlat="111.6685" minlon="23.47731" maxlat="102.0409" maxlon="7.730748"/>
+<node id="0" lat="14.6556323" lon="108.4313529" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="2" lat="14.6232942" lon="108.3954179" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="4" lat="14.6235292" lon="108.3956313" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="6" lat="14.6235969" lon="108.3957564" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="8" lat="14.6236218" lon="108.3958484" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="10" lat="14.6236218" lon="108.3960324" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="12" lat="14.6237251" lon="108.3961759" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="14" lat="14.6239031" lon="108.3964188" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="16" lat="14.6240455" lon="108.3965476" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="18" lat="14.6241559" lon="108.3966396" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="20" lat="14.6242948" lon="108.3967868" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="22" lat="14.6243945" lon="108.3969451" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="24" lat="14.6246081" lon="108.3969487" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="26" lat="14.6248894" lon="108.397015" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="28" lat="14.6250639" lon="108.3970297" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="30" lat="14.6251672" lon="108.3970444" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="32" lat="14.6253559" lon="108.3970371" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="34" lat="14.6255589" lon="108.3970996" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="36" lat="14.6257191" lon="108.3970665" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="38" lat="14.6258117" lon="108.397118" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="40" lat="14.6259327" lon="108.3971769" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="42" lat="14.6259541" lon="108.3973793" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="44" lat="14.6259755" lon="108.3974271" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="46" lat="14.626004" lon="108.3972652" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="48" lat="14.6261001" lon="108.3974603" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="50" lat="14.6262924" lon="108.3975449" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="52" lat="14.6264704" lon="108.3975817" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="54" lat="14.6265274" lon="108.3978319" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="56" lat="14.6265808" lon="108.3977841" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="58" lat="14.626595" lon="108.397659" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="60" lat="14.6266698" lon="108.3978871" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="62" lat="14.6268158" lon="108.3980233" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="64" lat="14.6269048" lon="108.399142" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="66" lat="14.6269404" lon="108.398119" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="68" lat="14.6269618" lon="108.3989764" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="70" lat="14.6269867" lon="108.3992855" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="72" lat="14.6270366" lon="108.3982257" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="74" lat="14.6270722" lon="108.3983398" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="76" lat="14.6271149" lon="108.3988955" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="78" lat="14.627147" lon="108.3993444" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="80" lat="14.6271612" lon="108.3984391" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="82" lat="14.6272431" lon="108.3987593" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="84" lat="14.6272858" lon="108.3985054" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="86" lat="14.6273107" lon="108.3993665" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="88" lat="14.627325" lon="108.3985716" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="90" lat="14.6275244" lon="108.3994107" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="92" lat="14.6276098" lon="108.3994732" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="94" lat="14.6277772" lon="108.3994843" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="96" lat="14.627884" lon="108.3995579" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="98" lat="14.6279089" lon="108.3999259" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="100" lat="14.6279161" lon="108.3997087" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="102" lat="14.6279588" lon="108.4000694" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="104" lat="14.6280514" lon="108.4001319" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="106" lat="14.6280727" lon="108.4002755" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="108" lat="14.6281582" lon="108.4003527" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="110" lat="14.6282721" lon="108.4005478" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="112" lat="14.6284502" lon="108.4007134" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="114" lat="14.6285036" lon="108.4044338" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="116" lat="14.6285463" lon="108.4045332" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="118" lat="14.6285712" lon="108.4008642" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="120" lat="14.6286353" lon="108.4042646" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="122" lat="14.6286994" lon="108.4045295" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="124" lat="14.6287528" lon="108.4040842" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="126" lat="14.6287671" lon="108.4034329" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="128" lat="14.6287742" lon="108.4009268" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="130" lat="14.6287884" lon="108.4037052" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="132" lat="14.6288134" lon="108.4038929" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="134" lat="14.6288347" lon="108.4032084" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="136" lat="14.6288525" lon="108.4025718" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="138" lat="14.6288597" lon="108.4027668" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="140" lat="14.6288775" lon="108.4023767" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="142" lat="14.6289024" lon="108.4029582" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="144" lat="14.6289202" lon="108.404559" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="146" lat="14.62897" lon="108.4022295" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="148" lat="14.6290769" lon="108.4020345" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="150" lat="14.6290911" lon="108.4016297" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="152" lat="14.6290911" lon="108.401821" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="154" lat="14.6291125" lon="108.401063" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="156" lat="14.6291267" lon="108.4046068" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="158" lat="14.6291481" lon="108.4014825" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="160" lat="14.6292335" lon="108.4011734" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="162" lat="14.6292371" lon="108.4013279" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="164" lat="14.6292905" lon="108.4045921" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="166" lat="14.6294222" lon="108.40457" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="168" lat="14.6296466" lon="108.4046178" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="170" lat="14.6298317" lon="108.404651" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="172" lat="14.6300169" lon="108.4047246" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="174" lat="14.6301344" lon="108.404857" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="176" lat="14.6302127" lon="108.4050263" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="178" lat="14.6303765" lon="108.4050742" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="180" lat="14.6305011" lon="108.4050116" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="182" lat="14.6306293" lon="108.4050521" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="184" lat="14.6306827" lon="108.4172475" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="186" lat="14.6307112" lon="108.4175199" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="188" lat="14.630729" lon="108.4170525" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="190" lat="14.6307824" lon="108.4052876" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="192" lat="14.6307824" lon="108.4167986" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="194" lat="14.6308109" lon="108.4177959" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="196" lat="14.630818" lon="108.4186791" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+<node id="198" lat="14.6308394" lon="108.4166035" version="1" timestamp="null">
+<tag k="nodes" v="drawable"/>
+</node>
+</osm>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<tag-mapping xmlns="http://mapsforge.org/tag-mapping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://mapsforge.org/tag-mapping ../resources/tag-mapping.xsd" default-zoom-appear="16" 
+profile-name="default-profile"> 
+<ways>
+<osm-tag key="lock" value="yes" zoom-appear="14" />
+<!-- mapsforge artificial tags for land/sea areas, do not remove -->
+<osm-tag key="natural" value="sea" zoom-appear="0" />
+<osm-tag key="natural" value="nosea" zoom-appear="0" />
+</ways>
+<ways>
+	<osm-tag key="
+</ways>
+<pois>
+	<osm-tag key="nodes" value="drawable" zoom-appear="0" />
+</pois>
+
+</tag-mapping>
